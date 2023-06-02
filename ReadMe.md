@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Next.js 13 and Socket.io<br>📖 Penultimate computer science student<br>💬 Open to chat and network<br>🍇Fun fact - I like grape gummy candy<br>
+🌱 I'm currently learning Next.js 13 and Socket.io<br>📖 Penultimate computer science student<br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
 
 
 ## 🌐 Socials:
