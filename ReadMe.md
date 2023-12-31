@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Sydney</h3>
 
 # 💫 About Me:
-🌱 I'm currently learning Next.js 13, Websockets and Go<br>📖 Penultimate computer science student<br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
+🌱 I'm currently working as a SWE intern and building my startup DynoCV! <br>📖 Final year Computer Science student<br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
 
 
 ## 🌐 Socials:
