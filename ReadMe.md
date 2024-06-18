@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate full-stack developer from Sydney</h3>
+<h3 align="center">Software Engineer from Sydney</h3>
 
 # 💫 About Me:
 🌱 I'm currently learning React Native/Expo and building DynoCV! <br>📖 Final year Computer Science student<br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
