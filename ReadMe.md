@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Sydney</h3>
 
 # 💫 About Me:
-🌱 I'm currently learning React Native/Expo and building DynoCV! <br>💻 Full Time FE SWE <br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
+🌱 I love everything Frontend! <br>💻 Full Time Software Engineer <br>💬 Open to chat and network<br>🍇 Fun fact - I like grape gummy candy<br>
 
 
 ## 🌐 Socials:
